@@ -16,3 +16,5 @@ let age = 22
 console.log(typeof(age))
 let isAdult = true
 console.log(typeof(isAdult))
+let hobbies = ["cricket", "football", "coding"]
+console.log(typeof(hobbies))

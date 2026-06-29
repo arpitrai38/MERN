@@ -14,3 +14,5 @@ console.log(typeof(name))
 
 let age = 22
 console.log(typeof(age))
+let isAdult = true
+console.log(typeof(isAdult))

@@ -11,3 +11,6 @@
 
 var name ="Arpit rai"
 console.log(typeof(name))
+
+let age = 22
+console.log(typeof(age))

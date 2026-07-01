@@ -84,3 +84,38 @@ Timeline:
 Conclusion: 
 JavaScript evolved from a simple browser scripting language into one of the world's most 
 
+Day variable
+
+JavaScript Mastery Notes - Chapter 3: Variables (var, let, const)
+
+What is a Variable?
+A variable is a named container that stores data in memory.
+
+var
+Can be redeclared, reassigned, function scoped, hoisted with undefined.
+
+let
+Cannot be redeclared in same scope, can be reassigned, block scoped, TDZ.
+
+const
+Cannot be redeclared or reassigned, block scoped, initialization required.
+
+Scope
+Global, Function and Block scope.
+
+Hoisting
+Declarations are processed before execution.
+
+TDZ
+let/const cannot be accessed before initialization.
+
+Best Practices
+Prefer const, use let when value changes, avoid var.
+
+Interview Questions
+Difference between var let const, hoisting, TDZ, scope.
+
+Practice
+Write programs using var, let and const.
+
+

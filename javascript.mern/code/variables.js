@@ -20,3 +20,4 @@ let hobbies = ["cricket", "football", "coding"]
 console.log(typeof(hobbies))
 const PI = 3.14
 console.log(PI)
+let girl = "Randi"

@@ -84,7 +84,7 @@ Timeline:
 Conclusion: 
 JavaScript evolved from a simple browser scripting language into one of the world's most 
 
-Day variable
+## variable
 
 JavaScript Mastery Notes - Chapter 3: Variables (var, let, const)
 
@@ -117,5 +117,31 @@ Difference between var let const, hoisting, TDZ, scope.
 
 Practice
 Write programs using var, let and const.
+
+
+
+
+# String =>
+
+String is a set of character.
+
+
+# way to create string
+
+1. Using ""
+
+Ex=> let str = "Hello world"
+
+
+2. Using ''
+
+Ex => let str = 'hello world'
+
+3. Using ``
+
+Ex => let str = `hello world`
+
+
+`Literal is fixed value`
 
 

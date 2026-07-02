@@ -11,5 +11,31 @@
 const arr = [1,23,45,5,6,6,7,]
 // arr.push(30)
 // arr.pop
-arr.unshift(20)
-console.log(arr)
+// arr.unshift(20)
+// arr.shift()
+
+//reduce
+
+// let a = arr.map((b)=>{
+//     return b*2;
+// })
+
+
+// filter 
+
+// let a = arr.filter((b)=>{
+//     return b%2==0
+// })
+
+
+// console.log(a)
+
+
+//reduce function
+
+// let a = arr.reduce((b,c)=>{
+//     c = c+b;
+//     return c
+// })
+
+// console.log(a)

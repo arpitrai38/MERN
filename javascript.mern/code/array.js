@@ -33,9 +33,8 @@ const arr = [1,23,45,5,6,6,7,]
 
 //reduce function
 
-// let a = arr.reduce((b,c)=>{
-//     c = c+b;
-//     return c
-// })
+// let a = arr.reduce((b,c)=>
+//    b+c
+// )
 
 // console.log(a)

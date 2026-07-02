@@ -33,14 +33,23 @@
 
 
 
-function sum(...a){
-    let s = 0;
-    a.forEach((b)=>{
-        s = s+b;
-    })
-    // console.log(a);
-    console.log(s);
+// function sum(...a){
+//     let s = 0;
+//     a.forEach((b)=>{
+//         s = s+b;
+//     })
+//     // console.log(a);
+//     console.log(s);
+// }
+
+
+// sum(1,2,3,4,5,6,7,8,9)
+
+
+
+
+function name(){
+    return "Arpit Rai, I am a web developer, I am a full stack developer, I am a MERN stack developer"
 }
-
-
-sum(1,2,3,4,5,6,7,8,9)
+let a = name()
+console.log(a)

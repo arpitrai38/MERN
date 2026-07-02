@@ -8,7 +8,7 @@
 // )
 
 
-const arr = [1,23,45,5,6,6,7,]
+// const arr = [1,23,45,5,6,6,7,]
 // arr.push(30)
 // arr.pop
 // arr.unshift(20)

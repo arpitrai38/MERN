@@ -1,5 +1,8 @@
- let a = arr.reduce((b,c)=>{
-   b+c
-})
-
-console.log(a)
+unction ch(){
+//     console.log("ch function");
+    
+// }
+// function call(c){
+//     c();
+// }
+// call(ch)

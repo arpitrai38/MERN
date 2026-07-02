@@ -145,3 +145,52 @@ Ex => let str = `hello world`
 `Literal is fixed value`
 
 
+
+# String Function
+
+//trim function => Used to remove the white spaces from the start and end of the string
+
+//toUpperCase() => Used to convert the string into uppercase.
+
+//toLowerCase() => Used to convert the string into lowercase.
+
+# Function
+
+Block of code to perform particular task.
+
+
+1. User-Defined function
+2. Pre-defined function
+
+# Named Function Expression
+    Ex=>
+    function check(){
+    console.log("Hello");
+    }
+check()
+
+
+# Anonymous Function
+const a = function(){
+    console.log("I am Arpit rai")
+}
+a()
+
+
+
+# Arrow Function
+
+   let a = ()=>{
+    console.log(`Hellp world`)
+   }
+   a()
+ # Callback Function
+ Higher Order Function
+ Method Function
+ Constructor Function
+ Recursive Function
+ IIFE
+ Async Function
+ Generator Function
+ Function Declaration
+ Function Expression
